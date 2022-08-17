@@ -1,0 +1,12 @@
+@import "bulma/css/bulma.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mt-50 {
+  margin-top: 50px;
+}
